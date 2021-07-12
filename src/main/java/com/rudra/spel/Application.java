@@ -1,4 +1,4 @@
-package com.rudrasiva86.spel;
+package com.rudra.spel;
 
 public class Application {
 	

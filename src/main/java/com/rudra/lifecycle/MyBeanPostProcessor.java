@@ -1,4 +1,4 @@
-package com.rudrasiva86.lifecycle;
+package com.rudra.lifecycle;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;

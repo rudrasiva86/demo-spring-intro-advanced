@@ -1,4 +1,4 @@
-package com.rudrasiva86.lifecycle;
+package com.rudra.lifecycle;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
